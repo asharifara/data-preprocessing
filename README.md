@@ -1,4 +1,7 @@
 # Data Preprocessing
 
-1. StandardScaler-sample
-This is an example for StandardScaler of Numeric features 
+1. StandardScaler-example
+This is an example for StandardScaler (for Numeric features )
+
+2. RobustScaler-example
+This is an example for RobustScaler  (for Numeric features)
