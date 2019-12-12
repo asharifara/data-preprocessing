@@ -7,3 +7,5 @@ This is an example for StandardScaler (for Numeric features )
 This is an example for RobustScaler  (for Numeric features)
 
 3. Normalization And Cosine Similarity
+
+4. Factor Analysis (and Classification)
