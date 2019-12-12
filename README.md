@@ -9,3 +9,5 @@ This is an example for RobustScaler  (for Numeric features)
 3. Normalization And Cosine Similarity
 
 4. Factor Analysis (and Classification)
+
+5. Outlier Detection using Local Outlier Factor (LOF)
