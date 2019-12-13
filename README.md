@@ -13,3 +13,5 @@ This is an example for RobustScaler  (for Numeric features)
 5. Outlier Detection using Local Outlier Factor (LOF)
 
 6. Outlier Detection using Isolation Forest
+
+7. Outlier Detection using EllipticEnvelope
