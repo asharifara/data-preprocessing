@@ -1,5 +1,7 @@
 # Data Preprocessing
 
+This repo is created just for personal use (feel free to use any part of the code)
+
 1. StandardScaler-example
 This is an example for StandardScaler (for Numeric features )
 
