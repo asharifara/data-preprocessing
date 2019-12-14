@@ -1,4 +1,4 @@
-# Data Preprocessing
+# Data Preprocessing (Numeric features)
 
 This repo is created just for personal use (feel free to use any part of the code)
 
