@@ -17,3 +17,5 @@ This is an example for RobustScaler  (for Numeric features)
 6. Outlier Detection using Isolation Forest
 
 7. Outlier Detection using EllipticEnvelope
+
+8. Artificial-Datasets (To generate sample data for classification, regression, clustering, etc.)
