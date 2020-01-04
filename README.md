@@ -20,4 +20,4 @@ This is an example for RobustScaler  (for Numeric features)
 
 8. Artificial-Datasets (To generate sample data for classification, regression, clustering, etc.)
 
-9. Data pre-processing : in this notebook, I have tried to find out the hidden missing values and impute them with the mean
+9. Data pre-processing: in this notebook, I have tried to find out the hidden missing values and impute them with the mean. Besides, a classification model has been used for creating a prediction model for diabetes dataset.
