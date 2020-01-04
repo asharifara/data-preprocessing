@@ -19,3 +19,5 @@ This is an example for RobustScaler  (for Numeric features)
 7. Outlier Detection using EllipticEnvelope
 
 8. Artificial-Datasets (To generate sample data for classification, regression, clustering, etc.)
+
+9. Data pre-processing : in this notebook, I have tried to find out the hidden missing values and impute them with the mean
